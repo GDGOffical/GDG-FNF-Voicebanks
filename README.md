@@ -2,7 +2,6 @@
 [W.I.P] Voicebanks of FNF mods that you can have! (UTAU voicebanks coming soon)
 
 Upcoming Voicebanks:
-Blocky
 
 Blue Luigi (Old)
 
